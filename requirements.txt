@@ -1,0 +1,12 @@
+streamlit
+matplotlib
+pathlib
+os
+datetime
+numpy
+pandas
+plotly.express
+ichart_studio.plotly
+plotly.offline
+plotly.graph_objs 
+sklearn
